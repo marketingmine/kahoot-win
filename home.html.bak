@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5N4P4VCD8J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5N4P4VCD8J');
+</script>
+
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+
+</head>
+<body>
+
+<center><h1> These Website Moved To Drifthunters.xyz Please Click Below Button To Play The Games. </h1></center>
+<center><a href="https://drifthunters.xyz/" class="button button2" target="_blank">Click Here To Play Unblocked Games</a></center>
+
+</body>
+</html>
+
